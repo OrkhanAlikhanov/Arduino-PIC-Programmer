@@ -5,6 +5,10 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArduinoPicProgrammer", "ArduinoPicProgrammer\ArduinoPicProgrammer.csproj", "{2277C053-7815-48A5-9503-30281469ED3B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArduinoPicProgrammer.Core", "ArduinoPicProgrammer.Core\ArduinoPicProgrammer.Core.csproj", "{E1234811-313E-482E-AC66-D2849886F788}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{641C1C36-99D8-4E45-8199-8AE0B01E31AA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{2277C053-7815-48A5-9503-30281469ED3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2277C053-7815-48A5-9503-30281469ED3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2277C053-7815-48A5-9503-30281469ED3B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E1234811-313E-482E-AC66-D2849886F788}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1234811-313E-482E-AC66-D2849886F788}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1234811-313E-482E-AC66-D2849886F788}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1234811-313E-482E-AC66-D2849886F788}.Release|Any CPU.Build.0 = Release|Any CPU
+		{641C1C36-99D8-4E45-8199-8AE0B01E31AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{641C1C36-99D8-4E45-8199-8AE0B01E31AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{641C1C36-99D8-4E45-8199-8AE0B01E31AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{641C1C36-99D8-4E45-8199-8AE0B01E31AA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
